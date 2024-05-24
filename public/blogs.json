@@ -1,0 +1,38 @@
+[
+  {
+    "title": "10 Tips for Better Sleep",
+    "image": "sleep.jpg",
+    "description": "Learn practical tips to improve your sleep quality and wake up feeling refreshed.",
+    "category": "Health"
+  },
+  {
+    "title": "The Art of Productivity: Getting Things Done",
+    "image": "productivity.jpg",
+    "description": "Discover strategies and techniques to enhance your productivity and achieve your goals.",
+    "category": "Self-Improvement"
+  },
+  {
+    "title": "Exploring Nature: Hiking Trails Near You",
+    "image": "hiking.jpg",
+    "description": "Find the best hiking trails in your area and immerse yourself in the beauty of nature.",
+    "category": "Travel"
+  },
+  {
+    "title": "Healthy Eating Habits: A Beginner's Guide",
+    "image": "healthy_eating.jpg",
+    "description": "Learn how to develop healthy eating habits and fuel your body with nutritious foods.",
+    "category": "Health"
+  },
+  {
+    "title": "Mastering the Art of Photography: Tips for Beginners",
+    "image": "photography.jpg",
+    "description": "Get started with photography and capture stunning images with these beginner tips.",
+    "category": "Art"
+  },
+  {
+    "title": "The Power of Mindfulness: Living in the Present Moment",
+    "image": "mindfulness.jpg",
+    "description": "Discover the benefits of mindfulness practice and how it can improve your overall well-being.",
+    "category": "Self-Improvement"
+  }
+]
